@@ -25,6 +25,7 @@
 - 🤔 I’m looking for help with Web3 Understandings
 - 💬 Ask me about HTML5, CSS3 & Web3
 - 📫 How to reach me: Official.hrishank@gmail.com
+- ✉️ Email Address Official.hrishank@gmail.com
 - 😄 Pronouns: He/His/Him
 - ⚡ Fun fact: I am huge fan of <em>"Marvel Cinematic Universe"</em>&nbsp; & &nbsp; <em>"how I met your mother"</em>
 
