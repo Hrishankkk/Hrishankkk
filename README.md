@@ -1,3 +1,5 @@
+![MasterHead](https://user-images.githubusercontent.com/85568177/163663881-3595e2e8-3d1b-4b2b-995e-d3b2f322e0ab.jpeg)
+
 <h1 align="center"> <strong>Hey, I am Hrishank Prabhakar</strong> </h1>
 
 <h2 align="center"> Data Structures Algorithms&nbsp;|&nbsp;Web Development&nbsp;|&nbsp;Web3&nbsp;|&nbsp;Hustling</h2>
@@ -24,7 +26,6 @@
 - 👯 I’m looking to collaborate on Project involving both web & Android Dev
 - 🤔 I’m looking for help with Web3 Understandings
 - 💬 Ask me about HTML5, CSS3 & Web3
-- 📫 How to reach me: Official.hrishank@gmail.com
 - ✉️ Email Address Official.hrishank@gmail.com
 - 😄 Pronouns: He/His/Him
 - ⚡ Fun fact: I am huge fan of <em>"Marvel Cinematic Universe"</em>&nbsp; & &nbsp; <em>"how I met your mother"</em>
