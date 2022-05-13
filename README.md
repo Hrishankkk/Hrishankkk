@@ -1,4 +1,4 @@
-![MasterHead](https://user-images.githubusercontent.com/85568177/163663881-3595e2e8-3d1b-4b2b-995e-d3b2f322e0ab.jpeg)
+![MasterHead](https://www.howtogeek.com/wp-content/uploads/2021/06/GitHub-hero.png?width=1198&trim=1,1&bg-color=000&pad=1,1)
 
 <h1 align="center"> <strong>Hey, I am Hrishank Prabhakar</strong> </h1>
 
