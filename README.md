@@ -1,4 +1,4 @@
-![MasterHead](https://cdn.wallpapersafari.com/62/86/KuEZ1g.jpg)
+![MasterHead](https://thumbs.dreamstime.com/b/chicago-skyline-night-famous-view-usa-130105805.jpg)
 
 <h1 align="center"> <strong>Hey, I am Hrishank Prabhakar</strong> </h1>
 
