@@ -35,3 +35,8 @@
 <p align="left"> 
  <a href="https://getbootstrap.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-   wordmark.svg" alt="bootstrap" width="40" height="40"/> </a>  
 </p> -->
+
+<hr>
+<p><img align="left" height="175px"  width="385px" src="https://github-readme-stats.vercel.app/api/top-langs?username=Hrishankkk&show_icons=true&locale=en&layout=compact" alt="Hrishankkk" /></p>
+
+<p>&nbsp;<img align="right" height="185px"  width="400px" src="https://github-readme-stats.vercel.app/api?username=Hrishankkk&show_icons=true&locale=en" alt="Hrishankkk" /></p>
